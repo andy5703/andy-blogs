@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "lorem ipsum...",
+      "author": "andy",
+      "id": 1
+    },
+    {
+      "title": "Outdoor boys",
+      "body": "lorem ipsum...",
+      "author": "john",
+      "id": 2
+    },
+    {
+      "title": "Paint like a master",
+      "body": "lorem ipsum...",
+      "author": "stephan",
+      "id": 3
+    },
+    {
+      "title": "My new website",
+      "body": "lorem ipsum...",
+      "author": "stephan",
+      "id": 4
+    }
+  ]
+}
