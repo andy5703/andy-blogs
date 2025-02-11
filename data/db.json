@@ -2,27 +2,27 @@
   "blogs": [
     {
       "title": "My new website",
-      "body": "lorem ipsum...",
+      "body": "Andy, a junior front-end developer, stared at his screen in frustration. His latest project—a sleek, interactive dashboard—was almost complete, but a mysterious bug refused to let the final feature work. Every test returned an error: \"Unexpected Token\".\n\nDetermined, he retraced his steps, combed through his JavaScript, and even asked AI for help (twice!). Still, the bug remained. Exhausted, he leaned back, staring at the blinking cursor.\n\nThen it hit him—a missing closing bracket!\n\nWith a single keystroke, the error vanished. The dashboard loaded flawlessly.\n\nAndy grinned. Sometimes, the smallest mistakes hold the biggest lessons.",
       "author": "andy",
-      "id": 1
+      "id": "1"
     },
     {
       "title": "Outdoor boys",
-      "body": "lorem ipsum...",
+      "body": "It started as a simple afternoon hike. Emma and her friends packed light—just water, snacks, and a camera—planning to explore a new trail before sunset. The cool breeze and golden sunlight painted the forest in warm hues as they wandered deeper, chatting and laughing.\n\nLost in the beauty of nature, they took a wrong turn. Instead of heading back, they found themselves atop a hidden hill with the most breathtaking view—a sky ablaze with orange and pink, rolling hills stretching endlessly before them.\n\nThey sat in silence, watching the sun dip below the horizon. What started as a casual hike turned into an unforgettable moment of peace and wonder.\n\nSometimes, the best adventures aren’t planned—they just find you.",
       "author": "john",
-      "id": 2
+      "id": "2"
     },
     {
       "title": "Paint like a master",
-      "body": "lorem ipsum...",
+      "body": "Lena had a gift—one that turned blank canvases into living, breathing stories. With every brushstroke, she captured emotions so vividly that people swore they could feel the warmth of the sun in her landscapes or hear the whispers in her portraits.\n\nOne evening, a wealthy collector visited her tiny studio, offering a fortune for her latest piece. But Lena hesitated. It wasn’t just paint on canvas—it was a memory, a piece of her soul.\n\nSmiling, she refused the offer. \"Some art isn’t meant to be owned,\" she said. \"It’s meant to be felt.\"\n\nAs the collector left, Lena picked up her brush again. True art, she believed, wasn’t about wealth—it was about heart.",
       "author": "stephan",
-      "id": 3
+      "id": "3"
     },
     {
       "title": "My new website",
       "body": "lorem ipsum...",
       "author": "stephan",
-      "id": 4
+      "id": "4"
     }
   ]
 }
