@@ -14,7 +14,7 @@ function App() {
                 <div className="main">
                     <Routes>
                         <Route exact path='/' element={ <Home/>} />
-                        <Route path='/create' element={ <CreateBlog /> } />
+                        <Route path='/CreateBlog' element={ <CreateBlog /> } />
                         <Route path='/blogs/:id' element={ <BlogDetails /> } />
                         <Route path='*' element={ <NotFound /> } />
                     </Routes>
